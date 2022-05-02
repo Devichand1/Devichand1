@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Full Stack Development 
 - 📫 How to reach me ... https://www.linkedin.com/in/dev-inikhiya/
 
-<h3> React </h3>
+<h3 style={{color:"green"}} > React </h3>
 <h3> React Native </h3>
 <h3> Javascript </h3>
 <h3> Nodejs </h3>
