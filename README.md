@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Devichand1
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning  Full Stack Development 
 - 📫 How to reach me ... https://www.linkedin.com/in/dev-inikhiya/
 
 <h3> React </h3>
